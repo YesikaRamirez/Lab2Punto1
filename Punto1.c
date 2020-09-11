@@ -125,7 +125,7 @@ void Pendiente1(punto *p1, punto *p2, punto *res)
 			if (res-> y == 0 )
 				{printf("\nLa pendiente es 0 , por que la recta es Horizontal.\n\n");}					
 				else				
-					{printf("\nLa pendiente es %.2f y es creciente. \n\n",m);}
+					{printf("\nLa pendiente es %.2f \n\n",m);}
 						
 }
 // INTERSECCION DE LA RECTA CON EL EJE Y//
